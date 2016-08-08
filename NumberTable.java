@@ -7,8 +7,15 @@ class NumberTable
    for(i=1,k=1;k<=5;k++)
    {
     for(j=1;j<=k;i++,j++)
-    System.out.print(i+"\t");
+    System.out.println(i+"\t");
     System.out.println("\n");
     }
   }
 }
+
+output:
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
