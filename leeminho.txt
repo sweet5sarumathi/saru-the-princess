@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>ELECTRONIC IDEAS</title>
+</head>
+<body background="orangy.jpg">
+
+<h1 style="text-align:center; color:red; font-family:verdana;">150+ Electronics Projects for Engineering Students</h1>
+<p><b><i>---------->Electronic BRAINY Projects</b></i></p>
+<p>
+ – The projects which are having more demand in engineering level and especially very useful for ECE and EEE students. We are all well known that we cannot imagine our life without electricity even for single day as it became a part in our life. So, it is very important and beneficial to us if we learn some basic things about electronics.
+
+ –This electronics concept deals with various small and large circuits which may include concepts like diodes, batteries, resistors, integrated circuits, etc. These concepts are very interesting to learn also. As day by day its importance growing at rapid rate.</p>
+
+//<img src="new.jpg" style="max-width: 100%; height: auto;" alt="Description"><br> 
+<img src="new.jpg" alt="electronicsproject.org" width="800" height="400">
+
+<a href="http://www.electronicsproject.org">project ideas</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z338Nc-0fig" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XMKQbqnXXhQ" frameborder="0" allowfullscreen></iframe>
+
+
+<video width="320" height="240" controls>
+  <source src="C:\Users\SYSTEMS WORLD\Desktop\html.mp4" type="video/mp4">
+  <source src="C:\Users\SYSTEMS WORLD\Desktop\html.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+
+</body>
+</html>
