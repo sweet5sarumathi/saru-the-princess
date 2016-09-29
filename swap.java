@@ -15,3 +15,10 @@ public class swap {
     }
 
 }
+Output:
+Before swap:
+x value: 10
+y value: 20
+After swap:
+x value: 20
+y value: 10
