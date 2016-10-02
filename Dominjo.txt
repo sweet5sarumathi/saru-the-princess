@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<style type="text/css">
+body{
+   background-image:url(http://7-themes.com/data_images/out/70/7010235-free-computer-desktop-backgrounds.jpg);
+  background-size:cover;
+}
+.aa{
+width:300px;
+height:230px;
+background-color:rgba(0,0,0,0.5);
+}
+
+</style>
+</head>
+<body>
+<div class="aa">
+<h2>LOGIN</h2>
+<form>
+<input type="text" placeholder="Please Enter Username..."><br>
+<input type="password" placeholder="Please Enter Password...."><br>
+<input type="submit" value="Login">
+</form>
+
+</div>
+</body>
+</html>
